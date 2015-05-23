@@ -6,7 +6,7 @@
 name: Aurelie Cosandey-Godin
 
 # Short bio or description (displayed in the header)
-description: Postdoctoral Research Fellow // fisheries // quantitative ecology // [Worm Lab](http://wormlab.biology.dal.ca/)
+description: Postdoctoral Research Fellow // fisheries // quantitative ecology // Dalhousie University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/005/0b8/3a2/15086c8.jpg
@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: users/1024266/godina
   # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: u/0/settings
+  googleplus: #u/0/settings
   # anything in your profile username that comes after plus.google.com/
 
 
